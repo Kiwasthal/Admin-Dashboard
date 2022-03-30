@@ -1,3 +1,6 @@
 # Admin-Dashboard
 
-Creating project an Admin-Dashboard using grid. 
+Creating project : Admin-Dashboard using grid. 
+Final project of itermediate HTML / CSS.
+
+Project demo <a href="">here.</a> 
