@@ -224,7 +224,7 @@ a {
 .rps,.etch,.calc,.l-page,.sign {
     grid-column: 2 / 3;
     grid-row: 1 / 3;
-    background: url(/assets/rps.png);
+    background: url(assets/rps.png);
     background-position-x:center;
     background-position-y:center;
     background-size: cover;
@@ -237,7 +237,7 @@ a {
 }
 
 .etch{
-    background: url(/assets/etch.png);
+    background: url(assets/etch.png);
     background-position-x:center;
     background-position-y:center;
     background-size: cover;
@@ -245,7 +245,7 @@ a {
 }
 
 .calc {
-    background: url(/assets/calc.png);
+    background: url(assets/calc.png);
     background-position-x:center;
     background-position-y:center;
     background-size: cover;
@@ -253,7 +253,7 @@ a {
 }
 
 .l-page {
-    background: url(/assets/l-page.png);
+    background: url(assets/l-page.png);
     background-position-x:center;
     background-position-y:center;
     background-size: cover;
@@ -261,7 +261,7 @@ a {
 }
 
 .sign {
-    background: url(/assets/sign.png);
+    background: url(assets/sign.png);
     background-position-x:center;
     background-position-y:center;
     background-size: cover;
